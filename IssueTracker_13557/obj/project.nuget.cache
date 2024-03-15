@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "O7GwFsg+QdSY25fmoH34uFWwTeCFfvGK6weVSUdy/vUksokbx5isyNyzlqSSSn8ihfKUz9zACJCA3b0Biap6xA==",
+  "success": true,
+  "projectFilePath": "Z:\\Desktop\\WAD\\IssueTracker_13557\\IssueTracker_13557\\IssueTracker_13557.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saidovalisher\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\saidovalisher\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\saidovalisher\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\saidovalisher\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\saidovalisher\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\saidovalisher\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
