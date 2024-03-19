@@ -1,0 +1,14 @@
+\\peter\ZDrive\00013557\Desktop\WADAPI\IssueTracker13557\IssueTracker13557.DAL\bin\Debug\net6.0\IssueTracker13557.DAL.deps.json
+\\peter\ZDrive\00013557\Desktop\WADAPI\IssueTracker13557\IssueTracker13557.DAL\bin\Debug\net6.0\IssueTracker13557.DAL.runtimeconfig.json
+\\peter\ZDrive\00013557\Desktop\WADAPI\IssueTracker13557\IssueTracker13557.DAL\bin\Debug\net6.0\IssueTracker13557.DAL.dll
+\\peter\ZDrive\00013557\Desktop\WADAPI\IssueTracker13557\IssueTracker13557.DAL\bin\Debug\net6.0\IssueTracker13557.DAL.pdb
+\\peter\ZDrive\00013557\Desktop\WADAPI\IssueTracker13557\IssueTracker13557.DAL\obj\Debug\net6.0\IssueTracker13557.DAL.csproj.AssemblyReference.cache
+\\peter\ZDrive\00013557\Desktop\WADAPI\IssueTracker13557\IssueTracker13557.DAL\obj\Debug\net6.0\IssueTracker13557.DAL.GeneratedMSBuildEditorConfig.editorconfig
+\\peter\ZDrive\00013557\Desktop\WADAPI\IssueTracker13557\IssueTracker13557.DAL\obj\Debug\net6.0\IssueTracker13557.DAL.AssemblyInfoInputs.cache
+\\peter\ZDrive\00013557\Desktop\WADAPI\IssueTracker13557\IssueTracker13557.DAL\obj\Debug\net6.0\IssueTracker13557.DAL.AssemblyInfo.cs
+\\peter\ZDrive\00013557\Desktop\WADAPI\IssueTracker13557\IssueTracker13557.DAL\obj\Debug\net6.0\IssueTracker13557.DAL.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00013557\Desktop\WADAPI\IssueTracker13557\IssueTracker13557.DAL\obj\Debug\net6.0\IssueTracker13557.DAL.dll
+\\peter\ZDrive\00013557\Desktop\WADAPI\IssueTracker13557\IssueTracker13557.DAL\obj\Debug\net6.0\refint\IssueTracker13557.DAL.dll
+\\peter\ZDrive\00013557\Desktop\WADAPI\IssueTracker13557\IssueTracker13557.DAL\obj\Debug\net6.0\IssueTracker13557.DAL.pdb
+\\peter\ZDrive\00013557\Desktop\WADAPI\IssueTracker13557\IssueTracker13557.DAL\obj\Debug\net6.0\IssueTracker13557.DAL.genruntimeconfig.cache
+\\peter\ZDrive\00013557\Desktop\WADAPI\IssueTracker13557\IssueTracker13557.DAL\obj\Debug\net6.0\ref\IssueTracker13557.DAL.dll
