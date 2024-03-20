@@ -4,6 +4,7 @@ namespace IssueTracker13557.Models
 {
     public class User
     {
+        //StudentID: 00013557
         public int Id { get; set; }
         [Required(ErrorMessage = "Username of the user cannot be empty.")]
         public string Username { get; set; }

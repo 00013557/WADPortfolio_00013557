@@ -11,7 +11,7 @@ using IssueTracker13557.Repository;
 
 namespace IssueTracker13557.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller][action]")]
     [ApiController]
     public class UsersController : ControllerBase
     {

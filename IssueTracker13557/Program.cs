@@ -2,7 +2,34 @@ using IssueTracker13557.Data;
 using IssueTracker13557.Repository;
 using Microsoft.EntityFrameworkCore;
 
+//StudentID: 00013557
+var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddCors(options =>
+
+{   
+
+    options.AddPolicy(MyAllowSpecificOrigins,
+
+               policy =>
+
+               {
+
+                   policy.WithOrigins("http://localhost:4200")
+
+                           .AllowAnyHeader()
+
+                           .AllowAnyMethod()
+
+                           .AllowAnyOrigin();
+
+               });
+
+});
+
+
 
 // Add services to the container.
 
@@ -24,7 +51,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+app.UseCors(MyAllowSpecificOrigins);
+
 
 app.UseAuthorization();
 
